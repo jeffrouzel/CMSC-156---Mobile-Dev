@@ -1,0 +1,1 @@
+ C:\\Users\\Jeff\ Rouzel\\Downloads\\CMSC\ 156\\bar_slider\\.dart_tool\\flutter_build\\8fb032ef4df809791843607fde810136\\native_assets.yaml: 

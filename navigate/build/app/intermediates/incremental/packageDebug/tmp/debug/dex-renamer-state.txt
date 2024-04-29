@@ -1,0 +1,4 @@
+#Mon Mar 18 10:09:20 PST 2024
+base.0=C\:\\Users\\Jeff Rouzel\\Downloads\\CMSC 156\\navigate\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

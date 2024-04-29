@@ -1,0 +1,1 @@
+ C:\\Users\\Jeff\ Rouzel\\Downloads\\CMSC\ 156\\navigate\\.dart_tool\\flutter_build\\25e0ad9a3d4cb107fc36c4c48a0f41c3\\native_assets.yaml: 
